@@ -1,0 +1,61 @@
+body {
+    margin: 0 auto;
+    font-family: 'Hind Madurai', sans-serif;
+    color: #808080;
+    background-color: #ffffff;
+}
+.text-box{
+
+    margin: 5%;
+}
+article {
+    margin: 0 0 5% 0;
+    color:#f15a22;
+    font-size:16pt;
+}
+.p-text {
+    margin: 5% 0 0 10%;
+    
+    
+}
+.orange_box{
+    background-color: #f15a22;
+    color: #ffffff;
+    height: 40%;
+}
+.orange_text-box{
+
+    margin-left: 5%;
+}
+.black_box{
+    background-color: #303030;
+}
+.black_box p{
+    color: #ffffff;
+}
+
+.case {
+    margin:5% 0 5% 0 ;
+}
+.text-indio{
+    height: 60%;
+
+}
+.assin {
+    width: 35%;
+    padding-top:5%; 
+}
+.selo{
+    padding: 15%;
+    width: 80%;
+}
+.logo{
+    width: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.r-text{
+    color: black;
+    font-size:8pt;
+}
+

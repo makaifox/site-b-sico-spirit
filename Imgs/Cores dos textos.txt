@@ -1,0 +1,3 @@
+Laranja - #f15a22
+Cinza - #808080
+Branco - #ffffff
